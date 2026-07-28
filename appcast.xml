@@ -3,13 +3,13 @@
     <channel>
         <title>Bookipi AI Notetaker</title>
         <item>
-            <title>0.1.10</title>
-            <pubDate>Thu, 23 Jul 2026 12:14:39 +0700</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+            <title>0.1.11</title>
+            <pubDate>Tue, 28 Jul 2026 13:20:45 +0800</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Bookipi-Group/desktop-notetaker-release-test/releases/download/v0.1.10-12/bookipi-notetaker-0.1.10.dmg" length="20627715" type="application/octet-stream" sparkle:edSignature="g8ofzt61IblApKJ3cVCqQkF7zZWnLvdW4kkNC2l3tOrgoAMb20KQGBm2KyJrgYJ4hUOGcBKEsMHj11pOjYDlBA=="/>
+            <enclosure url="https://github.com/Bookipi-Group/desktop-notetaker-release-test/releases/download/0.1.11-13/bookipi-notetaker-0.1.11.dmg" length="21827838" type="application/octet-stream" sparkle:edSignature="1U9OKXD6a0OAcr9EHmUrMTS5LFE07hWOCmg2NSLHF3wP6VrsSNepW5E/uV3spQN7AwYawFxgiknbZeeA/H1IDQ=="/>
         </item>
     </channel>
 </rss>
